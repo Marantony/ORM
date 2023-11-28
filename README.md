@@ -58,8 +58,6 @@ httpd.serve_forever()
 
 ![Screenshot from 2023-11-29 01-27-36](https://github.com/Marantony/ORM/assets/147474422/6cb04d34-c349-405e-a505-1cc8bb7e1cf3)
 
-## RESULT
-This program is executed successfully.
 
 
 
