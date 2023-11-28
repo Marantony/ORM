@@ -5,8 +5,8 @@
 To develop a Django application to store and retrieve data from a Football Players database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
+![er_diagram](https://github.com/Marantony/ORM/assets/147474422/1063de4a-0d03-4a27-817a-440404a045ac)
 
-Include your ER diagram here
 
 ## DESIGN STEPS
 
@@ -56,7 +56,11 @@ httpd.serve_forever()
 ```
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![Screenshot from 2023-11-29 01-27-36](https://github.com/Marantony/ORM/assets/147474422/6cb04d34-c349-405e-a505-1cc8bb7e1cf3)
+
+## RESULT
+This program is executed successfully.
+
 
 
 ## RESULT
